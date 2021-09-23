@@ -1,0 +1,15 @@
+.login-background{
+position: absolute;
+width: 100vw;
+height: 100vh;
+padding-top: 5rem; 
+}
+
+.formulario-login{
+    margin-top: -1rem;
+}
+
+.banner-login img{
+    margin-top: -5rem;
+    
+}
